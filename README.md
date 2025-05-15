@@ -18,15 +18,14 @@ A simple yet stylish single-page application (SPA) built with **F#** and **WebSh
 
 | Word List | Quiz | Statistics |
 |-----------|------|------------|
-| ![Word List](screenshots/wordlist.png) | ![Quiz](screenshots/quiz.png) | ![Stats](screenshots/stats.png) |
+| ![Word List](screenshots/screen1.png) | ![Quiz](screenshots/screen2.png) | ![Stats](screenshots/screen3.png) |
 
-> Replace the images with actual screenshots in the `screenshots/` folder of your repository.
 
 ---
 
-## Try It Live
+## Try Live Link:
 
-👉 [Live Demo](https://your-live-app-link.com)
+ [Live Demo](https://bence999999999.github.io/project_omega_F_sharp/)
 
 ---
 
