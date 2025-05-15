@@ -18,7 +18,7 @@ A simple yet stylish single-page application (SPA) built with **F#** and **WebSh
 
 | Word List | Quiz | Statistics |
 |-----------|------|------------|
-| ![Word List](screenshots/screen1.PNG) | ![Quiz](screenshots/screen2.png) | ![Stats](screenshots/screen3.png) |
+| ![Word List](screenshots/screen1.PNG) | ![Quiz](screenshots/screen2.PNG) | ![Stats](screenshots/screen3.PNG) |
 
 
 ---
