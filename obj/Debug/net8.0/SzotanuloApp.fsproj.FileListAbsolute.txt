@@ -66,3 +66,4 @@ C:\Users\bence\SzotanuloApp\obj\Debug\net8.0\Szotanul.9BAAC154.Up2Date
 C:\Users\bence\SzotanuloApp\obj\Debug\net8.0\SzotanuloApp.dll
 C:\Users\bence\SzotanuloApp\obj\Debug\net8.0\SzotanuloApp.pdb
 C:\Users\bence\SzotanuloApp\obj\Debug\net8.0\SzotanuloApp.genruntimeconfig.cache
+C:\Users\bence\SzotanuloApp\obj\Debug\net8.0\SzotanuloApp.sourcelink.json

@@ -36,7 +36,7 @@ function quizView(){
         _3.Set(_5);
       }
     };
-    return Doc.Element("div", [Attr.Create("class", "container")], [Doc.Element("h3", [], [Doc.TextNode("What's  the meaning of this word: "+toSafe(word.English)+"?")]), Doc.Input([Attr.Create("class", "input"), Attr.Create("placeholder", "Write the answer in hungarian")], answerVar()), Doc.Element("button", [Attr.Create("class", "button add"), Handler("click", () => handleCheckAnswer)], [Doc.TextNode("Check answers")]), Doc.Element("p", [], [Doc.BindView(Doc.TextNode, feedbackVar().View)]), Doc.Element("button", [Attr.Create("class", "button secondary"), Handler("click", () => handleNextQuizWord)], [Doc.TextNode("\ud83d\udd01 Next word")]), Doc.Element("button", [Attr.Create("class", "button secondary"), Handler("click", () => handleReturnToList)], [Doc.TextNode("\u21a9\ufe0f Back")]), Doc.Element("button", [Attr.Create("class", "button"), Handler("click", () => handleShowStats)], [Doc.TextNode("\ud83d\udcca Finish learning")])]);
+    return Doc.Element("div", [Attr.Create("class", "container")], [Doc.Element("h3", [], [Doc.TextNode("What's  the meaning of this word: "+toSafe(word.English)+"?")]), Doc.Input([Attr.Create("class", "input"), Attr.Create("placeholder", "Write the answer in hungarian")], answerVar()), Doc.Element("button", [Attr.Create("class", "button add"), Handler("click", () => handleCheckAnswer)], [Doc.TextNode("Check answer")]), Doc.Element("p", [], [Doc.BindView(Doc.TextNode, feedbackVar().View)]), Doc.Element("button", [Attr.Create("class", "button secondary"), Handler("click", () => handleNextQuizWord)], [Doc.TextNode("\ud83d\udd01 Next word")]), Doc.Element("button", [Attr.Create("class", "button secondary"), Handler("click", () => handleReturnToList)], [Doc.TextNode("\u21a9\ufe0f Back")]), Doc.Element("button", [Attr.Create("class", "button"), Handler("click", () => handleShowStats)], [Doc.TextNode("\ud83d\udcca Finish learning")])]);
   }
   else return Doc.Element("div", [Attr.Create("class", "container")], [Doc.Element("p", [], [Doc.BindView(Doc.TextNode, feedbackVar().View)]), Doc.Element("button", [Attr.Create("class", "button secondary"), Handler("click", () => handleReturnToList)], [Doc.TextNode("\u21a9\ufe0f Back")]), Doc.Element("button", [Attr.Create("class", "button"), Handler("click", () => handleShowStats)], [Doc.TextNode("\ud83d\udcca Finish learning")])]);
 }
@@ -77,7 +77,7 @@ function handleNextQuizWord(){
   }
   else {
     answerVar().Set("");
-    feedbackVar().Set("\ud83d\udcdb You've finished the quiz");
+    feedbackVar().Set("You've finished the quiz!");
     let _3=modelVar();
     const _4=modelVar().Get();
     _3.Set(New(_4.Words, _4.Page, null, FSharpList.Empty, _4.IncorrectAnswers));

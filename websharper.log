@@ -1,9 +1,26 @@
-2025-05-15 21:21:29.8199|DEBUG|Program|location of wsfscservice is: C:\Users\bence\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
-2025-05-15 21:21:29.8199|DEBUG|Program|pipename is: 24d286331b77927b98e28df748e654a2 (server side)
-2025-05-15 21:21:29.8234|DEBUG|Program|Compiling C:\Users\bence\SzotanuloApp\SzotanuloApp.fsproj
-2025-05-15 21:21:30.9980|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(62,19,62,46): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
-2025-05-15 21:21:31.0088|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(63,21,63,64): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
-2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(64,25,64,84): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
-2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(243,69,243,91): error FS0001: This expression was expected to have type     'Dom.MouseEvent -> unit'     but here has type     'unit'
-2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(243,69,243,91): error FS0001: This expression was expected to have type     'Dom.MouseEvent -> unit'     but here has type     'unit'
-2025-05-15 21:21:31.0801|TRACE|Program|Server sends: x: 1
+2025-05-15 21:49:08.3602|DEBUG|Program|location of wsfscservice is: C:\Users\bence\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
+2025-05-15 21:49:08.3602|DEBUG|Program|pipename is: 24d286331b77927b98e28df748e654a2 (server side)
+2025-05-15 21:49:08.3602|DEBUG|Program|Compiling C:\Users\bence\SzotanuloApp\SzotanuloApp.fsproj
+2025-05-15 21:49:10.8042|TRACE|Program|Server sends: n: F# compilation: 00:00:02.4645793
+2025-05-15 21:49:12.5089|TRACE|Program|Server sends: n: Checking project: 00:00:01.7047930
+2025-05-15 21:49:12.5089|TRACE|Program|Server sends: n: Waiting on merged metadata: 00:00:00.0011239
+2025-05-15 21:49:12.6065|TRACE|Program|Server sends: n: Parsing with FCS: 00:00:00.0964520
+2025-05-15 21:49:12.6065|TRACE|Program|Server sends: n: Analyzing function arguments: 00:00:00.0011121
+2025-05-15 21:49:12.6065|TRACE|Program|Server sends: n: Resolving names: 00:00:00.0034252
+2025-05-15 21:49:12.9625|TRACE|Program|Server sends: n: WebSharper translation: 00:00:00.3514589
+2025-05-15 21:49:12.9675|TRACE|Program|Server sends: n: Source position transformations: 00:00:00.0050451
+2025-05-15 21:49:12.9675|TRACE|Program|Server sends: n: Packaging assembly: 00:00:00.0031410
+2025-05-15 21:49:13.0341|TRACE|Program|Server sends: n: Computing metadata: 00:00:00.0634129
+2025-05-15 21:49:13.0341|TRACE|Program|Server sends: n: Writing reexports root.js: 00:00:00.0016105
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing SzotanuloApp.Client.WordEntry.js: 00:00:00.0294921
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing SzotanuloApp.Client.Page.js: 00:00:00.0014776
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing SzotanuloApp.Client.Model.js: 00:00:00.0011794
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing SzotanuloApp.Client.js: 00:00:00.0019830
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing $StartupCode_Client.js: 00:00:00.0012400
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing $EntryPoint.js: 00:00:00.0010830
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Writing .d.ts files: 00:00:00.0044772
+2025-05-15 21:49:13.0652|TRACE|Program|Server sends: n: Hashing resources: 00:00:00.0016325
+2025-05-15 21:49:13.2520|TRACE|Program|Server sends: n: Serializing metadata: 00:00:00.1737860
+2025-05-15 21:49:13.2739|TRACE|Program|Server sends: n: Writing resources into assembly: 00:00:00.0218885
+2025-05-15 21:49:13.5277|TRACE|Program|Server sends: n: Bundling: 00:00:00.2538187
+2025-05-15 21:49:13.5628|TRACE|Program|Server sends: x: 0
