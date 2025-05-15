@@ -1,0 +1,9 @@
+2025-05-15 21:21:29.8199|DEBUG|Program|location of wsfscservice is: C:\Users\bence\.nuget\packages\websharper.fsharp\9.0.0.547\tools\net8.0\win-x64 (server side)
+2025-05-15 21:21:29.8199|DEBUG|Program|pipename is: 24d286331b77927b98e28df748e654a2 (server side)
+2025-05-15 21:21:29.8234|DEBUG|Program|Compiling C:\Users\bence\SzotanuloApp\SzotanuloApp.fsproj
+2025-05-15 21:21:30.9980|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(62,19,62,46): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+2025-05-15 21:21:31.0088|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(63,21,63,64): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(64,25,64,84): error FS0008: This runtime coercion or type test from type     'a      to      obj     involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(243,69,243,91): error FS0001: This expression was expected to have type     'Dom.MouseEvent -> unit'     but here has type     'unit'
+2025-05-15 21:21:31.0499|TRACE|Program|Server sends: e: C:\Users\bence\SzotanuloApp\Client.fs(243,69,243,91): error FS0001: This expression was expected to have type     'Dom.MouseEvent -> unit'     but here has type     'unit'
+2025-05-15 21:21:31.0801|TRACE|Program|Server sends: x: 1

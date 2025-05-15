@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "dFqewBQ44c3RU+saO3rjb1UfVEFfWkQyyxklDk1lFbk=",
+  "Source": "SzotanuloApp",
+  "BasePath": "_content/SzotanuloApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SzotanuloApp\\wwwroot",
+      "Source": "SzotanuloApp",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\index.html",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u4i1q86dus",
+      "Integrity": "DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.css",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/SzotanuloApp#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\SzotanuloApp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.html",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/SzotanuloApp.head#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\SzotanuloApp.head.html"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.js",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/SzotanuloApp.head#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7k5w70rl7",
+      "Integrity": "ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\SzotanuloApp.head.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.js",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/SzotanuloApp#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kxjk973548",
+      "Integrity": "6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\SzotanuloApp.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.min.js",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/SzotanuloApp.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x9qtqhri1l",
+      "Integrity": "RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\SzotanuloApp.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "Scripts/WebSharper.Core.JavaScript/Runtime#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye3nh9ay57",
+      "Integrity": "CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js"
+    },
+    {
+      "Identity": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\site.css",
+      "SourceId": "SzotanuloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\",
+      "BasePath": "_content/SzotanuloApp",
+      "RelativePath": "site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ai796v5bwf",
+      "Integrity": "QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:15:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU="
+        }
+      ]
+    },
+    {
+      "Route": "index.u4i1q86dus.html",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:15:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4i1q86dus"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.css",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.5ipweew5fc.html",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.head.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.html",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.j7k5w70rl7.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7k5w70rl7"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.head.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.kxjk973548.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxjk973548"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.min.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.min.x9qtqhri1l.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\SzotanuloApp.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9qtqhri1l"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.ye3nh9ay57.js",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye3nh9ay57"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/WebSharper.Core.JavaScript/Runtime.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        }
+      ]
+    },
+    {
+      "Route": "site.ai796v5bwf.css",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ai796v5bwf"
+        },
+        {
+          "Name": "label",
+          "Value": "site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4="
+        }
+      ]
+    },
+    {
+      "Route": "site.css",
+      "AssetFile": "C:\\Users\\bence\\SzotanuloApp\\wwwroot\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4="
+        }
+      ]
+    }
+  ]
+}

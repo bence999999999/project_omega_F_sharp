@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Scripts/SzotanuloApp.5ipweew5fc.css",
+      "AssetFile": "Scripts/SzotanuloApp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.css"
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.css",
+      "AssetFile": "Scripts/SzotanuloApp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.5ipweew5fc.html",
+      "AssetFile": "Scripts/SzotanuloApp.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.head.html"
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.html",
+      "AssetFile": "Scripts/SzotanuloApp.head.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.j7k5w70rl7.js",
+      "AssetFile": "Scripts/SzotanuloApp.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7k5w70rl7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.head.js"
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.head.js",
+      "AssetFile": "Scripts/SzotanuloApp.head.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ca4b0K2Y5GqXDsPnqvdFi/ZcZ8dv8ZV+jiRsQ9FmgBc="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.js",
+      "AssetFile": "Scripts/SzotanuloApp.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.kxjk973548.js",
+      "AssetFile": "Scripts/SzotanuloApp.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxjk973548"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DZYZfm7ObEqXMD5sQ83jifQ3L+T3sYcdBZO97LNlwQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.js"
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.min.js",
+      "AssetFile": "Scripts/SzotanuloApp.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/SzotanuloApp.min.x9qtqhri1l.js",
+      "AssetFile": "Scripts/SzotanuloApp.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x9qtqhri1l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZhQtJsePzw5Wani7hyVLYZTkDP+TSfrn3UUwL8RYpQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/SzotanuloApp.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.js",
+      "AssetFile": "Scripts/WebSharper.Core.JavaScript/Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/WebSharper.Core.JavaScript/Runtime.ye3nh9ay57.js",
+      "AssetFile": "Scripts/WebSharper.Core.JavaScript/Runtime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:03:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye3nh9ay57"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CgZAoke4eDhLJ49Eas6Ad0lrW0DXyFDQx6MrlELhuaI="
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/WebSharper.Core.JavaScript/Runtime.js"
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU="
+        }
+      ]
+    },
+    {
+      "Route": "index.u4i1q86dus.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4i1q86dus"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DizCAsqAEnI6FDMsL66NSiETvbzZmYLtd/IvEmy4bIU="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "site.ai796v5bwf.css",
+      "AssetFile": "site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:28:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ai796v5bwf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4="
+        },
+        {
+          "Name": "label",
+          "Value": "site.css"
+        }
+      ]
+    },
+    {
+      "Route": "site.css",
+      "AssetFile": "site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:28:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QkAuL/Fo8fwdvbLC+cU+SYtLuWpjU+aKKV5jwlnUvn4="
+        }
+      ]
+    }
+  ]
+}
