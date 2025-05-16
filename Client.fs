@@ -6,6 +6,9 @@ open WebSharper.UI
 open WebSharper.UI.Html
 open WebSharper.UI.Client
 
+
+
+
 [<JavaScript>]
 module Client =
 
@@ -16,11 +19,9 @@ module Client =
         Learned: bool
     }
 
-    type Page =
-        | WordList
-        | Quiz
-        | Stats
+    type Page = WordList | Quiz | Stats
 
+    
     type Model = {
         Words: list<WordEntry>
         Page: Page
