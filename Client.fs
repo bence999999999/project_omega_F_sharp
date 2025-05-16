@@ -10,7 +10,7 @@ open WebSharper.UI.Client
 [<JavaScript>]
 module Client =
 
-    // A szóbejegyzés típus - egyszerű rekord
+    // A szóbejegyzés típus
     type WordEntry = {
         Id: System.Guid
         English: string
@@ -53,7 +53,7 @@ module Client =
     let answerVar = Var.Create ""
     let feedbackVar = Var.Create ""
 
-    // egyszerű keverés - lehetne jobb is
+    // egyszerű keverés 
     let shuffle list =
         let rnd = System.Random()
         list |> List.sortBy (fun _ -> rnd.Next())
@@ -104,7 +104,7 @@ module Client =
 
     let handleStartIncorrectQuiz _ =
         startQuizFromWords modelVar.Value.IncorrectAnswers
-
+    
     let handleNextQuizWord _ =
         match modelVar.Value.RemainingQuiz with
         | [] ->
@@ -122,6 +122,8 @@ module Client =
     let handleShowStats _ =
         modelVar.Value <- { modelVar.Value with Page = Stats }
 
+    //Nézetek megoldása
+    
     let wordInputView () =
         div [attr.``class`` "form-section"] [
             h3 [] [text "Új szó hozzáadása"]
